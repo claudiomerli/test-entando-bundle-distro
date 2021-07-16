@@ -1,4 +1,4 @@
-image: solvingteam/testbundle:0.0.4-SNAPSHOT
+image: entandodemo/testbundle:0.0.4-SNAPSHOT
 dbms: postgresql
 healthCheckPath: "/management/health"
 roles:
