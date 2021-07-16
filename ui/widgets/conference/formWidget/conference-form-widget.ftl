@@ -9,4 +9,4 @@
 <#-- Don't add anything above this line. The build scripts will automatically link the compiled JS and CSS for you and add them above this line so that the widget can be loaded-->
 
 <#-- This is the custom element -->
-<conference-form service-url="/entandodemo/testbundle/0-0-4-snapshot" />
+<conference-form service-url="/entandodemo/testbundle/0-0-5-snapshot" />
